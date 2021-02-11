@@ -1,0 +1,32 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.navbar{
+text-align: center;
+font-size: 80px;
+color: white;
+    background-color:#58B19F
+}
+.head{
+    color: #58B19F;
+    font-size: 25px;
+   padding-left: 5vw;
+   padding-top: 10vh;
+
+}
+.text{
+  padding-top: 0;
+  padding-left: 10vw;
+  font-size: 18px;
+
+}
+.handshake_image{
+    width: 4.5cm;
+    height: 5.5cm;
+    padding-left: 3cm;
+}
+.handshake {
+   padding: 1cm;
+}
+
